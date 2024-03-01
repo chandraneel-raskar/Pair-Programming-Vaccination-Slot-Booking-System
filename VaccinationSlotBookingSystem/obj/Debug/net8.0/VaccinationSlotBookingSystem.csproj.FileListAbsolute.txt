@@ -1,0 +1,17 @@
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.csproj.AssemblyReference.cache
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.AssemblyInfo.cs
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\VaccinationSlotBookingSystem.exe
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\VaccinationSlotBookingSystem.deps.json
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\VaccinationSlotBookingSystem.runtimeconfig.json
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\VaccinationSlotBookingSystem.dll
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\VaccinationSlotBookingSystem.pdb
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\bin\Debug\net8.0\Bogus.dll
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.csproj.CopyComplete
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.dll
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\refint\VaccinationSlotBookingSystem.dll
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.pdb
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\VaccinationSlotBookingSystem.genruntimeconfig.cache
+C:\Users\craskar\source\repos\VaccinationSlotBookingSystem\VaccinationSlotBookingSystem\obj\Debug\net8.0\ref\VaccinationSlotBookingSystem.dll
